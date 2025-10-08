@@ -1,9 +1,10 @@
 # 𝐌𝐈𝐃𝐓𝐄𝐑𝐌: 𝐏𝐚𝐢𝐫-𝐁𝐚𝐬𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐲 DE CASTRO & OXILLO
 
-<!-- Header Image -->
+<!-- Project Header -->
 <p align="center">
-  <img src="Blue%20and%20White%20Coming%20Soon%20Twitter%20Header.png" alt="Adidas Sales Header" width="100%">
+  <img src="ADIDAS.png" alt="Adidas Sales Dataset Header" width="100%">
 </p>
+
 
 ## Group Information
 ```
