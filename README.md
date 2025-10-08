@@ -35,6 +35,8 @@ from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
+data = pd.read_excel('Adidas US Sales Datasets.xlsx')
 
+display(df.head())
 
-  ### Step 2. Defining Preprocessing Steps
+df.info()
