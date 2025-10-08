@@ -1,6 +1,8 @@
 # 𝐌𝐈𝐃𝐓𝐄𝐑𝐌: 𝐏𝐚𝐢𝐫-𝐁𝐚𝐬𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐲 DE CASTRO & OXILLO
 
-
+<p align="center">
+  <img src="https://github.com/kenziruss/Oxillo_De-Castro_Adidas-US-Sale-Datasets/blob/main/Blue%20Pink%20Pixelation%20Coming%20Soon%20Video.gif">
+</p>
 
 
 ## Group Information
