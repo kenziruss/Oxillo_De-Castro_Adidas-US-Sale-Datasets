@@ -302,4 +302,9 @@ plt.ylabel('Principal Component 2')
 plt.show()
 ```
 
-
+<p align="center">
+  <img src="https://github.com/kenziruss/Oxillo_De-Castro_Adidas-US-Sale-Datasets/blob/main/header/output-onlinegiftools%20(4).gif" 
+       alt="Adidas US Sales Header 2" 
+       width="100%" 
+       height="auto">
+</p>
