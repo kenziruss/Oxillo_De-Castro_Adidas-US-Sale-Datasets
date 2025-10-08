@@ -33,6 +33,14 @@ The Adidas Sales Dataset was published on Kaggle by Heemali Chaudhari. It contai
 ## License/Attribution:
 ```
 ```
+
+<p align="center">
+  <img src="https://github.com/kenziruss/Oxillo_De-Castro_Adidas-US-Sale-Datasets/blob/main/header/output-onlinegiftools%20(3).gif" 
+       alt="Adidas US Sales Header" 
+       width="100%" 
+       height="auto">
+</p>
+
 ## Objective:
  ```
 To analyze the dataset through a thorough exploration of its structure, including the identification of missing values, outliers, and inconsistencies. This process also involves determining the necessary preprocessing steps such as data cleaning, transformation, and preparation for further analysis.
