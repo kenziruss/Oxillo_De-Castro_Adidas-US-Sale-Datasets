@@ -39,6 +39,15 @@ To analyze the dataset through a thorough exploration of its structure, includin
 ```
  ```
 ```
+
+<p align="center">
+  <img src="https://github.com/kenziruss/Oxillo_De-Castro_Adidas-US-Sale-Datasets/blob/main/header/output-onlinegiftools%20(2).gif" 
+       alt="Adidas US Sales Header" 
+       width="100%" 
+       height="auto">
+</p>
+
+
 ## Implementation Guide (Step-by-Step Process)
 ### Data Preprocessing
  ```
