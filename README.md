@@ -28,6 +28,7 @@ To analyze the dataset through a thorough exploration of its structure, includin
 
 Import essential libraries for data manipulation and preprocessing, including **pandas** for handling datasets and **scikit-learn** modules for scaling, encoding, imputing, and building pipelines.
 
+### 1. Data Processing
 ```python
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
@@ -35,8 +36,23 @@ from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
-data = pd.read_excel('Adidas US Sales Datasets.xlsx')
+# Load the dataset
+df = pd.read_excel('Adidas US Sales Datasets.xlsx')
 
+# Display dataset overview
 display(df.head())
-
+display(df.describe())
 df.info()
+
+---
+
+⚡ Once you add that closing ``` at the end, it will show proper **colored (light) syntax highlighting** in your README.  
+
+Do you want me to rewrite your **Step 1 block** in full README style (with explanation text + highlighted code) so you can paste it directly?
+
+- Syntax highlighting should now appear in light colors.  
+- Variable `df` is consistent everywhere.  
+
+Do you want me to also **fix Step 2 (Defining Preprocessing Steps)** in the same polished format?
+
+2: Defining Preprocessing Steps
