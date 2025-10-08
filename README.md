@@ -308,3 +308,11 @@ plt.show()
        width="100%" 
        height="auto">
 </p>
+
+<p align="center">
+  <img src="https://github.com/kenziruss/Oxillo_De-Castro_Adidas-US-Sale-Datasets/blob/main/header/output-onlinegiftools%20(6).gif" 
+       alt="Adidas US Sales Header 2" 
+       width="100%" 
+       height="auto">
+</p>
+
