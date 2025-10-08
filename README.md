@@ -1,7 +1,10 @@
 # 𝐌𝐈𝐃𝐓𝐄𝐑𝐌: 𝐏𝐚𝐢𝐫-𝐁𝐚𝐬𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐲 DE CASTRO & OXILLO
 
 <p align="center">
-  <img src="https://github.com/kenziruss/Oxillo_De-Castro_Adidas-US-Sale-Datasets/blob/main/Blue%20Pink%20Pixelation%20Coming%20Soon%20Video.gif">
+  <img src="https://github.com/kenziruss/Oxillo_De-Castro_Adidas-US-Sale-Datasets/blob/main/header/Grey%20Green%20Modern%20Business%20Email%20Header.gif?raw=true" 
+       alt="Adidas Dataset Header" 
+       width="100%" 
+       height="auto">
 </p>
 
 
