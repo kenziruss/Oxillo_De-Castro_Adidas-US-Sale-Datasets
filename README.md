@@ -1,9 +1,6 @@
 # 𝐌𝐈𝐃𝐓𝐄𝐑𝐌: 𝐏𝐚𝐢𝐫-𝐁𝐚𝐬𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐛𝐲 DE CASTRO & OXILLO
 
-<!-- Project Header -->
-<p align="center">
-  <img src="ADIDAS.png" alt="Adidas Sales Dataset Header" width="100%">
-</p>
+
 
 
 ## Group Information
