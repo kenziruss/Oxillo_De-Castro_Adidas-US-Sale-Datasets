@@ -6,7 +6,7 @@ Group Name Members: De Castro, Rod Andrei & Oxillo, Ivan Russ
 Assigned Theme:
 Topic: Adidad US Sale Datasets
 ```
-# Project Overview
+##Project Overview
 Dataset Title: Adidad US Sale Datasets
 ```
 ```
