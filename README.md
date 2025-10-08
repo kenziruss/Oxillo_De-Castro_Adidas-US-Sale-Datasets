@@ -41,7 +41,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
 ```
-# Load the dataset
+### Load the dataset
 ```
 df = pd.read_excel('Adidas US Sales Datasets.xlsx')
 
