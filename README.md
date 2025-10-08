@@ -11,6 +11,7 @@ Dataset Title: Adidad US Sale Datasets
 ```
 ```
 ## Source 
+ ```
 The Adidas Sales Dataset was published on Kaggle by Heemali Chaudhari. It contains sales transaction records for Adidas products, and is available for download on the Kaggle platform (Chaudhari, n.d.). https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
    ```
 ``` 
