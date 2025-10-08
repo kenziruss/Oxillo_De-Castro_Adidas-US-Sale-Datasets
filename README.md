@@ -24,3 +24,17 @@ To analyze the dataset through a thorough exploration of its structure, includin
 * Import essential libraries such as **pandas** for data handling and **scikit-learn** modules (`StandardScaler`, `OneHotEncoder`, `SimpleImputer`, `ColumnTransformer`, `Pipeline`) for preprocessing.  
 * Load the dataset **(Adidas US Sales Datasets.xlsx)** into a pandas DataFrame for further analysis.
 
+## Step 1: Data Processing – Importing Libraries
+
+Import essential libraries for data manipulation and preprocessing, including **pandas** for handling datasets and **scikit-learn** modules for scaling, encoding, imputing, and building pipelines.
+
+```python
+import pandas as pd
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.impute import SimpleImputer
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
+
+
+
+  ### Step 2. Defining Preprocessing Steps
